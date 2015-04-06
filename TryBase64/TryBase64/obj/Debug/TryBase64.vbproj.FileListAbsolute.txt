@@ -1,0 +1,20 @@
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\bin\Debug\TryBase64.exe
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\bin\Debug\TryBase64.pdb
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\bin\Debug\TryBase64.xml
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.Form1.resources
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.Resources.resources
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.vbproj.GenerateResource.Cache
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.exe
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.xml
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\obj\Debug\TryBase64.pdb
+c:\users\snag\documents\visual studio 2013\Projects\TryBase64\TryBase64\bin\Debug\TryBase64.exe.config
+D:\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.exe.config
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.exe
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.xml
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.pdb
+D:\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.exe
+D:\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.pdb
+D:\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.xml
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.Form1.resources
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.Resources.resources
+D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.vbproj.GenerateResource.Cache
