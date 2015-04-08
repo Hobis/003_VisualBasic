@@ -18,3 +18,7 @@ D:\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.xml
 D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.Form1.resources
 D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.Resources.resources
 D:\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.vbproj.GenerateResource.Cache
+D:\600_hblabs\003_VisualBasic\TryBase64\TryBase64\bin\Debug\TryBase64.exe.config
+D:\600_hblabs\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.exe
+D:\600_hblabs\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.xml
+D:\600_hblabs\003_VisualBasic\TryBase64\TryBase64\obj\Debug\TryBase64.pdb

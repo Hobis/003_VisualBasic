@@ -2,7 +2,7 @@
 
 Public NotInheritable Class Form1
 
-    ' ::
+    ' :: 폼 로드
     Private Sub p_Me_Load( _
                     ByVal sender As Object, _
                     ByVal e As EventArgs) Handles MyBase.Load
@@ -26,14 +26,14 @@ Public NotInheritable Class Form1
         AddHandler Me.DragDrop, AddressOf Me.p_Me_DragDrop
     End Sub
 
-    ' ::
+    ' :: 드래그 엔터
     Private Sub p_Me_DragEnter(ByVal sender As Object, ByVal dea As DragEventArgs)
         If (dea.Data.GetDataPresent(DataFormats.FileDrop)) Then
             dea.Effect = DragDropEffects.Copy
         End If
     End Sub
 
-    ' ::
+    ' :: 드래그 드롭
     Private Sub p_Me_DragDrop(ByVal sender As Object, ByVal dea As DragEventArgs)
         Dim t_dragObjs As Object = dea.Data.GetData(DataFormats.FileDrop)
         Dim t_filePaths() As String = TryCast(t_dragObjs, String())
@@ -67,7 +67,7 @@ Public NotInheritable Class Form1
         End If
     End Sub
 
-    ' ::
+    ' :: Base64 스트링 저장
     Private Sub p_Button3_Click( _
                     ByVal sender As Object, _
                     ByVal e As EventArgs) Handles Button3.Click
@@ -75,7 +75,7 @@ Public NotInheritable Class Form1
         MBase64Task.fToString(Me._TargetFilePath)
     End Sub
 
-    ' ::
+    ' :: Base64 바이너리 저장
     Private Sub p_Button4_Click( _
                     ByVal sender As Object, _
                     ByVal e As EventArgs) Handles Button4.Click
